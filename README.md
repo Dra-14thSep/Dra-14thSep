@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dra-14thSep
-- 👀 I’m interested in you
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in you <3
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? - You can't :D
 
 <!---
 Dra-14thSep/Dra-14thSep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

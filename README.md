@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dra-14thSep
 - 👀 I’m interested in you <3
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? - You can't :D
 
